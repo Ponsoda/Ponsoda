@@ -3,5 +3,5 @@
 - 📚 Also studing a MSc in Big Data, BI and Cibersecurity.
 - 🌱 Interested on learning Big Data and Matchine learning techniques.
 - 👯 I’m looking to collaborate on geospatial projects all over the world.
-- ▶️ Geoprogramming is my youtube channel for geotools introductions.
+- ▶️ Geoprogramming is my youtube channel for introduction of geotools.
 
